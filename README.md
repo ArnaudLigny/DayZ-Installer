@@ -8,7 +8,7 @@ _DayZ-Installer_ is an installer (and updater) for [DayZ](http://dayzmod.com "Da
 * Detects ARMA II and ARMA II Operation Arrowhead (based on Windows Registry, 32 and 64 bits) and its installation directory
 * Choice of server download mirror
 * Detects the DayZ Mod and compare version with the last available on the default CDN
-* Checks [MD5 sums](http://en.wikipedia.org/wiki/Md5sum) of each RAR archive
+* Checks [MD5 sums](https://wikipedia.org/wiki/Md5sum) of each RAR archive
 * Creates a Steam app desktop shortcut
 
 ## Download
