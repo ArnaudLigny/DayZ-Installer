@@ -13,7 +13,7 @@ _DayZ-Installer_ is an installer (and updater) for [DayZ](http://dayzmod.com "Da
 
 ## Download
 
-* From [GitHub](https://github.com/Narno/DayZ-Installer/releases)
+* From [GitHub](https://github.com/ArnaudLigny/DayZ-Installer/releases)
 * From [Dropbox](https://www.dropbox.com/home/D%C3%A9veloppement/NSIS/DayZ/releases)
 
 ## Screenshots
@@ -42,7 +42,7 @@ _DayZ-Installer_ is an installer (and updater) for [DayZ](http://dayzmod.com "Da
 
 ## Author
 
-Created by [Arnaud Ligny](https://narno.dev) (aka Narno).
+Created by [Arnaud Ligny](https://arnaudligny.fr) (aka Narno).
 
 ## License
 
